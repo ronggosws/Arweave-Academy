@@ -87,9 +87,9 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 | Task | Topic | Status | Review |
 |-------|-------|-------|-------|
-| [task1](https://openbuild.xyz/quiz/202501081) | 6 Quizs for "Intro to Arweave" | Ongoing |[Review](https://x.com/ArweaveOasis/status/1881249788186022397) |
-| [task2](https://openbuild.xyz/quiz/202501082) | 8 Quizs for "Intro to Arweave" | Ongoing | --- |
-| [task3](https://openbuild.xyz/quiz/202501083) | 9 Quizs for "Storing Data on Arweave" | Ongoing |--- |
+| [task1](https://openbuild.xyz/quiz/202501081) | 6 Quizs for "Intro to Arweave" | stop |[Review](https://x.com/ArweaveOasis/status/1881249788186022397) |
+| [task2](https://openbuild.xyz/quiz/202501082) | 8 Quizs for "Intro to Arweave" | stop | --- |
+| [task3](https://openbuild.xyz/quiz/202501083) | 9 Quizs for "Storing Data on Arweave" | stop |--- |
 
 #### Module 2: Basic development on Arweave
 
@@ -111,13 +111,13 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 | Task | Topic | Status |
 |-------|-------|-------|
-| [task4](https://openbuild.xyz/quiz/202501084) | 6 Quizs for "Access Data on Arweave" | Ongoing |
-| [task5](https://openbuild.xyz/quiz/202501085) | 6 Quizs for "Access Data on Arweave" | Ongoing |
-| [task6](https://openbuild.xyz/quiz/202501086) | 6 Quizs for "Building a static website on Arweave" | Ongoing |
-| [task7](https://openbuild.xyz/quiz/202501087) | 6 Quizs for "Building a static website on Arweave" | Ongoing |
-| [task8](https://openbuild.xyz/quiz/202501088) | 6 Quizs for "Build a Dapp on Arweave" | Ongoing |
-| [task9](https://openbuild.xyz/quiz/202501089) | 6 Quizs for "Build a Dapp on Arweave" | Ongoing |
-| [task10](https://openbuild.xyz/quiz/202501090) | 6 Quizs for "Build a Dapp on Arweave" | Ongoing |
+| [task4](https://openbuild.xyz/quiz/202501084) | 6 Quizs for "Access Data on Arweave" | stop |
+| [task5](https://openbuild.xyz/quiz/202501085) | 6 Quizs for "Access Data on Arweave" | stop |
+| [task6](https://openbuild.xyz/quiz/202501086) | 6 Quizs for "Building a static website on Arweave" | stop |
+| [task7](https://openbuild.xyz/quiz/202501087) | 6 Quizs for "Building a static website on Arweave" | stop |
+| [task8](https://openbuild.xyz/quiz/202501088) | 6 Quizs for "Build a Dapp on Arweave" | stop |
+| [task9](https://openbuild.xyz/quiz/202501089) | 6 Quizs for "Build a Dapp on Arweave" | stop |
+| [task10](https://openbuild.xyz/quiz/202501090) | 6 Quizs for "Build a Dapp on Arweave" | stop |
 
 #### Module 3: Introduction to AO (TBD)  
 
